@@ -1,0 +1,9 @@
+{
+  "name": "unexpected",
+  "delayMs": 200,
+  "graceMs": 600,
+  "notifyMs": 40,
+  "drainMs": 300,
+  "signalTimesMs": [520],
+  "selfExitMs": 300
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tight",
+  "delayMs": 200,
+  "graceMs": 600,
+  "notifyMs": 40,
+  "drainMs": 600,
+  "signalTimesMs": [120]
+}

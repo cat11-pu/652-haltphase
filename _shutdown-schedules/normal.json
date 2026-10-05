@@ -1,0 +1,8 @@
+{
+  "name": "normal",
+  "delayMs": 200,
+  "graceMs": 600,
+  "notifyMs": 40,
+  "drainMs": 300,
+  "signalTimesMs": [120]
+}

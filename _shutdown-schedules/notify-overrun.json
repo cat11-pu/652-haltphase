@@ -1,0 +1,8 @@
+{
+  "name": "notify-overrun",
+  "delayMs": 200,
+  "graceMs": 600,
+  "notifyMs": 500,
+  "drainMs": 400,
+  "signalTimesMs": [120]
+}

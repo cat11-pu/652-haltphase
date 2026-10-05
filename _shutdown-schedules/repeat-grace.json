@@ -1,0 +1,8 @@
+{
+  "name": "repeat-grace",
+  "delayMs": 200,
+  "graceMs": 600,
+  "notifyMs": 40,
+  "drainMs": 900,
+  "signalTimesMs": [120, 500]
+}
